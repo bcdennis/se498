@@ -26,7 +26,15 @@ public class BinarySearch {
 
    public static void main(String[] args) {
       int[] list = { 1, 3, 12, 19, 22, 34, 44, 47, 52, 58, 66, 70, 80, 84, 90};
-
+   
       System.out.println(BinarySearch.search(34, list));
+      
+      String word = "yes";
+ 
+      if(word!=null && 10/word.length()>1) {
+         System.out.println("handy");
+      }
+
+
    }
 }
