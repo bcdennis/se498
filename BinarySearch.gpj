@@ -12,9 +12,7 @@ s#k0
 s#j0
 s#l0
 !1021;d
-[\012  grasp [\012   legendy -41.0\012   legendx -0.25\012   version 1\012   winflags 3\012   eheight 1458\012   ewidth 1920\012   height 1458\012   width 1920\012   wbp 0\012   initlayout 0\012   yoffs 0.8333333333333712\012   xoffs 310.08333333333337\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "BinarySearch\\011()V\\011c\\0111\\011\\011\\011BinarySearch\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011BinarySearch\011search\\011(I[I)I\\011\\0119\\011\\011\\011BinarySearch"\012    condition 0\012    access2 0\012    access 2490401\012    classname "BinarySearch"\012    fromclassfiledate 1452026165662\012    fromclassfilename "%\011BinarySearch.class"\012    fromfilename "%\011BinarySearch.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -5.166666666666657\012     y 80.16666666666669\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!40;g
-%\011Driver.java
+[\012  grasp [\012   legendy -41.0\012   legendx -0.25\012   version 1\012   winflags 3\012   eheight 1458\012   ewidth 1920\012   height 1458\012   width 1920\012   wbp 0\012   initlayout 0\012   yoffs 0.8333333333333712\012   xoffs 310.08333333333337\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "BinarySearch\\011()V\\011c\\0111\\011\\011\\011BinarySearch\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011BinarySearch\011search\\011(I[I)I\\011\\0119\\011\\011\\011BinarySearch"\012    condition 0\012    access2 0\012    access 2490401\012    classname "BinarySearch"\012    fromclassfiledate 1452026165662\012    fromclassfilename "%\011BinarySearch.class"\012    fromfilename "%\011BinarySearch.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -5.166666666666657\012     y 80.16666666666669\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!23;g
 %\011BinarySearch.java
-!40;f
-%\011Driver.java
+!23;f
 %\011BinarySearch.java
